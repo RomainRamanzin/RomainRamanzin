@@ -5,7 +5,7 @@
 Actuellement en seconde année de BTS SIO dans l'établissement Saint Adjutor à Vernon. J'ai souhaité integer la spécialisation SLAM (solutions logicielles et applications métiers). Je suis passionné par l'informatique, le développement et les innovations technologiques, je souhaiterais poursuivre mes études dans le développement web et mobile
 
 -   🌍  I'm based in Mantes la Jolie
--   🖥️  See my portfolio at [Mon portfolio](http://romain-ramanzin.fr/)
+-   🖥️  See my portfolio at [romain-ramanzin.fr](http://romain-ramanzin.fr/)
 -   ✉️  You can contact me at [romain.ramanzin@gmail.com](mailto:romain.ramanzin@gmail.com)
 
 <a href="https://www.github.com/RomainRamanzin" target="_blank" rel="noreferrer">
