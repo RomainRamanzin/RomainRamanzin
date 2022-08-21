@@ -41,14 +41,6 @@ Actuellement en seconde année de BTS SIO dans l'établissement Saint Adjutor à
  <a href="https://www.linkedin.com/in/romainrr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
  </p>
  
-
- ### Badges
- <b>My GitHub Stats</b>
-
- <a href="http://www.github.com/RomainRamanzin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RomainRamanzin&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
- <a href="https://github.com/RomainRamanzin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomainRamanzin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
- 
  
  <b>Top Repositories</b><div width="100%" align="center">
  <a href="https://github.com/RomainRamanzin/Projet_tkt" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RomainRamanzin&repo=Projet_tkt&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
