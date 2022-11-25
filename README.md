@@ -2,7 +2,7 @@
 
 ## Etudiant en développement Full Stack
 
-Actuellement en seconde année de BTS SIO dans l'établissement Saint Adjutor à Vernon. J'ai souhaité integer la spécialisation SLAM (solutions logicielles et applications métiers). Je suis passionné par l'informatique, le développement et les innovations technologiques, je souhaiterais poursuivre mes études dans le développement web et mobile
+Actuellement en dernière année de Bachelor Developpeur FullStack à l'ENSITECH de Cergy. Je suis passionné par l'informatique, le développement et les innovations technologiques.
 
 -   🌍  I'm based in Mantes la Jolie
 -   ✉️  You can contact me at [romain.ramanzin@gmail.com](mailto:romain.ramanzin@gmail.com)
@@ -39,9 +39,3 @@ Actuellement en seconde année de BTS SIO dans l'établissement Saint Adjutor à
  <a href="https://www.github.com/RomainRamanzin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
  <a href="https://www.linkedin.com/in/romainrr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
  </p>
- 
- 
- <b>Top Repositories</b><div width="100%" align="center">
- <a href="https://github.com/RomainRamanzin/Projet_tkt" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RomainRamanzin&repo=Projet_tkt&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
- <a href="https://github.com/RomainRamanzin/Projet_Comeleon" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RomainRamanzin&repo=Projet_Comeleon&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-</p>
