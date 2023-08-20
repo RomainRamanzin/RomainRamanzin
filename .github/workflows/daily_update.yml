@@ -1,0 +1,35 @@
+name: Daily Markdown Update
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # Exécution quotidienne à 8h UTC
+
+jobs:
+  update_md:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: 18 # Choisissez la version de Node.js que vous utilisez dans votre code
+    
+    - name: Install dependencies
+      run: npm install
+    
+    - name: Run script
+      run: node index.js
+    
+    - name: Commit changes
+      uses: EndBug/add-and-commit@v7
+      with: 
+        author_name: RomainRamanzin
+        author_email: romain.ramanzin@gmail.com
+        force: false
+        signoff: false
+        message: 'Update markdown files'
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

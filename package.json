@@ -1,0 +1,22 @@
+{
+  "name": "romainramanzin",
+  "version": "1.0.0",
+  "description": "Actuellement en dernière année de Bachelor Developpeur FullStack à l'ENSITECH de Cergy. Je suis passionné par l'informatique, le développement et les innovations technologiques.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomainRamanzin/RomainRamanzin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomainRamanzin/RomainRamanzin/issues"
+  },
+  "homepage": "https://github.com/RomainRamanzin/RomainRamanzin#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
