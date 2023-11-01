@@ -5,7 +5,7 @@ I'm a passionate first-year Master's student in Lead Development and a proactive
 -   🌍  I'm based in Mantes la Jolie
 -   ✉️  You can contact me at [romain.ramanzin@gmail.com](mailto:romain.ramanzin@gmail.com)
 -   ⛏️  See my [LinkedIn](https://www.linkedin.com/in/romainrr/) for more information
--   📝  Last update on 31/10/2023
+-   📝  Last update on 01/11/2023
 
 
 ## 🌐 Socials:
