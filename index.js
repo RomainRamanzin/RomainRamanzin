@@ -1,5 +1,5 @@
 const fs = require ('fs');
-const readme = require ('./readme.js');
+let readme = require ('./readme.js');
 
 const today = new Date().toLocaleDateString('fr-FR');
 const timestamp = new Date().toISOString();
