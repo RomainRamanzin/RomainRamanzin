@@ -2,7 +2,7 @@ name: Daily Markdown Update
 
 on:
   schedule:
-    - cron: '0 8 * * *' # Exécution quotidienne à 8h UTC
+    - cron: '0 10 * * *' # Exécution quotidienne à 10h UTC
 
 jobs:
   update_md:
