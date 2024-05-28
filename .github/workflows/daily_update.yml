@@ -1,6 +1,9 @@
 name: Daily Markdown Update
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '0 10 * * *' # Exécution quotidienne à 10h UTC
 
