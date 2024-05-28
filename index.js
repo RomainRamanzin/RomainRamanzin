@@ -7,7 +7,7 @@ const randomNumber = Math.floor(Math.random() * 100);
 
 
 if (randomNumber > 60) {
-  const readmeContent = readme.replace('<#today_date>', today);
+  var readmeContent = readme.replace('<#today_date>', today);
   readmeContent += `\n<!-- Last updated: ${timestamp} -->`;
 } else {
   console.log('Skipping readme upadate');
