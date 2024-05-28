@@ -7,7 +7,7 @@ const randomNumber = Math.floor(Math.random() * 100);
 
 
 if (randomNumber > 60) {
-  var readmeContent = readme.replace('<#today_date>', today);
+  let readmeContent = readme.replace('<#today_date>', today);
   readmeContent += `\n<!-- Last updated: ${timestamp} -->`;
 
   // Write the new README.md file
@@ -16,5 +16,5 @@ if (randomNumber > 60) {
     console.log('The file has been saved!');
   });
 } else {
-  console.log('Skipping readme upadate');
+  console.log('Skipping readme update');
 }
