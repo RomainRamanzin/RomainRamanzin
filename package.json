@@ -4,6 +4,7 @@
   "description": "Actuellement en dernière année de Bachelor Developpeur FullStack à l'ENSITECH de Cergy. Je suis passionné par l'informatique, le développement et les innovations technologiques.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
