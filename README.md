@@ -5,7 +5,7 @@ I'm a passionate first-year Master's student in Lead Development and a proactive
 -   🌍  I'm based in Mantes la Jolie
 -   ✉️  You can contact me at [romain.ramanzin@gmail.com](mailto:romain.ramanzin@gmail.com)
 -   ⛏️  See my [LinkedIn](https://www.linkedin.com/in/romainrr/) for more information
--   📝  Last update on 30/07/2024
+-   📝  Last update on 31/07/2024
 
 
 ## 🌐 Socials:
@@ -31,4 +31,4 @@ I'm a passionate first-year Master's student in Lead Development and a proactive
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=romainramanzin&label=Profile%20views&color=0e75b6&style=flat" alt="romainramanzin" /> </p> -->
-<!-- Last updated: 2024-07-30T10:14:02.545Z -->
+<!-- Last updated: 2024-07-31T10:10:44.457Z -->
