@@ -27,8 +27,5 @@ I'm a passionate first-year Master's student in Lead Development and a proactive
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romainramanzin&theme=dark" alt="romainramanzin" /></p>
 
-<img src="https://raw.githubusercontent.com/romainramanzin/romainramanzin/output/snake.svg" alt="Snake animation" />
-
-
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=romainramanzin&label=Profile%20views&color=0e75b6&style=flat" alt="romainramanzin" /> </p> -->
 <!-- Last updated: 2024-07-31T10:10:44.457Z -->
