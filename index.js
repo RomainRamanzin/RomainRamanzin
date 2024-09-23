@@ -6,7 +6,7 @@ const timestamp = new Date().toISOString();
 const randomNumber = Math.floor(Math.random() * 100);
 
 
-if (randomNumber > 80) {
+if (randomNumber > 90) {
   let readmeContent = readme.replace('<#today_date>', today);
   readmeContent += `\n<!-- Last updated: ${timestamp} -->`;
 
