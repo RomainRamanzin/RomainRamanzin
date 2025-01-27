@@ -1,11 +1,11 @@
 # 👋 Hello there! I'm Romain Ramanzin,
 
-I'm a passionate first-year Master's student in Lead Development and a proactive Project Manager at [Pilow 💌](https://pilow.app). I thrive on translating innovative ideas into tangible solutions. My GitHub journey is all about collaboration, coding, and continuous improvement.
+As a final-year Master's student in Lead Development and an experienced Project Manager at [Pilow 💌](https://pilow.app), I specialize in building scalable, user-centric applications while managing complex projects from ideation to delivery.
 
 -   🌍  I'm based in Mantes la Jolie
 -   ✉️  You can contact me at [romain.ramanzin@gmail.com](mailto:romain.ramanzin@gmail.com)
 -   ⛏️  See my [LinkedIn](https://www.linkedin.com/in/romainrr/) for more information
--   📝  Last update on 12/01/2025
+-   📝  Last update on 28/01/2025
 
 
 ## 🌐 Socials:
