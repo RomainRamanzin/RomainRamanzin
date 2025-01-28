@@ -15,13 +15,19 @@ As a final-year Master's student in Lead Development and an experienced Project 
 # 💻 Tech Stack:
 
 ## Backend
-<img src="https://skillicons.dev/icons?i=php,symfony,mysql,javascript,ts,nodejs,express,firebase,py,arduino&perline=5" />
+<img src="https://skillicons.dev/icons?i=symfony,php,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,javascript,ts,prisma" />
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,py" />
 
 ## Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,sass,webpack,flutter,dart&perline=5" />
+<img src="https://skillicons.dev/icons?i=bootstrap,html,css,sass,webpack" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
 
 ## Tools :
-<img src="https://skillicons.dev/icons?i=git,github,vscode,githubactions,selenium,docker,linux,apple,figma,postman&perline=5" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,docker,figma,arduino" />
+<img src="https://skillicons.dev/icons?i=selenium,postman" />
+<img src="https://skillicons.dev/icons?i=apple,linux" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romainramanzin&show_icons=true&theme=dark&locale=en" alt="romainramanzin" /></p>
 
