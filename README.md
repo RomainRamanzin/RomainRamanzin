@@ -81,14 +81,6 @@ const romain = {
 </div>
 
 ---
-
-## 🏆 Achievements & Goals
-
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=romainramanzin&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7)
-  
-</div>
   
   <sub>🕐 Dernière mise à jour : 09/07/2025</sub>
   
