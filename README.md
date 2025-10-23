@@ -18,18 +18,6 @@
 
 ## 🎯 À propos de moi
 
-```typescript
-const romain = {
-  status: "🎓 Fraîchement diplômé en Développement",
-  location: "📍 Mantes-la-Jolie, France",
-  currentSituation: "🚀 Ouvert aux opportunités",
-  previousRole: "Ex-Developpeur Full-Stack chez Pilow 💌",
-  passion: ["Innovation", "Clean Code", "Team Leadership"],
-  motto: "Transformer les idées en solutions concrètes ✨"
-};
-```
-
-### 🔥 Highlights
 - 🎓 **Diplômé** d'un Master en Développement
 - 💼 **Expérience** en développement et gestion de projets
 - 🌟 **Spécialisé** dans les architectures modernes et scalables
@@ -82,6 +70,6 @@ const romain = {
 
 ---
   
-  <sub>🕐 Dernière mise à jour : 09/07/2025</sub>
+  <sub>🕐 Dernière mise à jour : 23/10/2025</sub>
   
 </div>
