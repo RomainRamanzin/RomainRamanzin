@@ -58,7 +58,7 @@
 
 </div>
 
-## 📊 GitHub Analytics
+<!-- ## 📊 GitHub Analytics
 
 <div align="center">
   
@@ -74,7 +74,10 @@
 </div>
 
 ---
+
+-->
+
   
-  <sub>🕐 Dernière mise à jour : 23/10/2025</sub>
+  <sub>🕐 Dernière mise à jour : 26/10/2025</sub>
   
 </div>
